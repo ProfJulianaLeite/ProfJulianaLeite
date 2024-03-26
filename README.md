@@ -9,7 +9,7 @@
 <p>
   Hi 👋, I'm Juliana! I am a woman passionate about technology and teaching!
 
-  - 🌱 I’m currently live in Portugal and work with programming classes for hildren and teenagers at Algorithmics <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently live in Portugal and work with programming classes for children and teenagers at Algorithmics <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
 </p>
 
